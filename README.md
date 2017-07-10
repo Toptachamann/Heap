@@ -1,5 +1,5 @@
 # Heap
-Template heap class with tester
+Template heap class with tester.
 Classical data structure implementation. Every constructor has one optional argument - pointer to comparator, according to which elements
 will be ordered in the heap. Personally I found it very usefull.
 HeapTester is a very primite class for comparing performance of this heap class and one from STL. When testing at a small number of 
